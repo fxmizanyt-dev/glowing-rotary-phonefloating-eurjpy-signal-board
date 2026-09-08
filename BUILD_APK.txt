@@ -1,0 +1,9 @@
+QUICK APK BUILD
+
+Android Studio:
+1. File > Open > select the floating_signal_board folder.
+2. Wait for Gradle Sync.
+3. Build > Build Bundle(s) / APK(s) > Build APK(s).
+4. Install the APK on your Android phone.
+
+The app does NOT place trades automatically.
